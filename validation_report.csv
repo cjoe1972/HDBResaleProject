@@ -1,0 +1,6 @@
+Column,Validation Rule,Invalid Records
+month,Valid Date,0
+town,Alphabetic + Master Dataset Values,2744
+flat_type,Alphanumeric Characters,0
+flat_model,Alphanumeric Characters,0
+storey_range,Format NN TO NN,0
